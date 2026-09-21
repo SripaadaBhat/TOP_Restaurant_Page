@@ -1,4 +1,4 @@
-import menu from "src/images/MW17-Flat-Menu-BullFish-1.jpg";
+import menu from "./images/MW17-Flat-Menu-BullFish-1.jpg";
 
 export default function loadMenu(){
     const content=document.querySelector("#content");
